@@ -33,3 +33,9 @@ The key files in this repo are:
 * `figures/` : figures used in my presentation, and from some of the draft versions of the presentation.
 
 If attempting to run my notebooks, be sure to run `scripts/get_crash_data.py` first to acquire full crash datasets.
+
+## Licensing
+
+This work is licensed under GNU General Public License version 3.0. Broadly, this means you can reuse my work,
+but you need to provide attribution and release source code. Specifically, it means the content of `COPYING`. 
+
