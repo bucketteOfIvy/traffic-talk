@@ -7,7 +7,7 @@ areas. Why should redlining -- a practice from 100 years ago -- impact health ou
 <p align='center'>
    <img src="https://github.com/bucketteOfIvy/traffic-talk/blob/main/figures/injuries_per_redlined_areas.png?raw=true" data-canonical-src="https://github.com/bucketteOfIvy/traffic-talk/blob/main/figures/injuries_per_redlined_areas.png?raw=true" width="600" alt="Bar chart of median visible injuries in crashes per HOLC area grade in 2022-2023 Chicago. A and B graded areas (i.e blue and greenlined areas) have about half as many injuries per square kilometer as C and D graded areas (i.e. yellow and red lined areas)." />
   <br>
-  <em>Sometimes a bar chart is enough...</em>
+  <em>Sometimes simpler data display is better...</em>
 </p>
 This talk (and slightly messy repo) contains notebooks and data I used to provide a plausible explanation
 of this trend to a lay audience at the Chicago History Museum on May 11th, 2024. In the talk, I sketched
