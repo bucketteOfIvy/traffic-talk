@@ -4,7 +4,7 @@ Traffic kills a _lot_ of people, particularly boys and men between ages 5-49. Al
 are more crashes (and more severe crashes) in historically redlined areas than there are in blue lined
 areas. Why should redlining -- a practice from 100 years ago -- impact health outcomes in modern times?
 
-<img src='figures/injuries_per_redlined_areas/>
+<img src='/figures/injuries_per_redlined_areas/>
 <p style='fontsize:10px'>Sometimes a histogram just says everything important..</p>
 
 This talk (and slightly messy repo) contains notebooks and data I used to provide a plausible explanation
